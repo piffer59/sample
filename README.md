@@ -1,3 +1,3 @@
 # sample
 
-# testing client-side git hook
+# testing client-side git hook again
